@@ -15,7 +15,8 @@ This is a graduate-level course, aimed at
 
 **Instructor**
 
-D
+Dr. [Nan Niu](https://homepages.uc.edu/~niunn), Associate Professor
+Department of EECS, University of Cincinnati, USA
 
 ---
 
