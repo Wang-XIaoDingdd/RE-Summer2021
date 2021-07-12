@@ -23,10 +23,12 @@ Department of EECS, University of Cincinnati, USA
   - Current techniques, notations, methods, processes, and tools used in RE
 - Gain practical experience in selected RE techniques
 - Understand the essential nature of RE
+  - Breadth of skills needed for RE & the many disciplines on which RE draws
+  - Contextual factors & practicalities that affect the success of various approaches to RE
 - Gain a basic grounding for research in RE
 
 ---
 
 **Assessments**
 
-Something
+Students are evaluated based on 
