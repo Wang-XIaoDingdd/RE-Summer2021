@@ -20,5 +20,3 @@ Dr. [Nan Niu](https://homepages.uc.edu/~niunn), Associate Professor
 Department of EECS, University of Cincinnati, USA
 
 ---
-
-Course Assessments
