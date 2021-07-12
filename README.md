@@ -20,8 +20,10 @@ Department of EECS, University of Cincinnati, USA
 **Course Objectives**
 
 - Examine the state-of-the-art of research & current practices in requirements engineering (RE)
+  - Current techniques, notations, methods, processes, and tools used in RE
 - Gain practical experience in selected RE techniques
-- Third item
+- Understand the essential nature of RE
+- Gain a basic grounding for research in RE
 
 ---
 
