@@ -5,7 +5,7 @@
 - 9:45am-10:40am, second lecture
 - 10:50am-11:35am, third lecture
 
-A useful resource is the IEEE International Requirements Engineering Conference series. Here is the link to its portal: [RE] (https://requirements-engineering.org/).
+### A useful resource is the IEEE International Requirements Engineering Conference series. Here is the link to its portal: [RE] (https://requirements-engineering.org/).
 
 ---
 
@@ -20,7 +20,7 @@ Department of EECS, University of Cincinnati, USA
 **Course Objectives**
 
 - Examine the state-of-the-art of research & current practices in requirements engineering (RE)
-- Second item
+- Gain practical experience in selected RE techniques
 - Third item
 
 ---
