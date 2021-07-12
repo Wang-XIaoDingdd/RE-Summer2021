@@ -5,11 +5,6 @@
 - 9:45am-10:40am, second lecture
 - 10:50am-11:35am, third lecture
 
----
-
-**Course Objectives**
-
-This is a graduate-level course, aimed at
 
 ---
 
