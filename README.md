@@ -31,4 +31,4 @@ Department of EECS, University of Cincinnati, USA
 
 **Assessments**
 
-Students are evaluated based on 
+Students are evaluated based on 4 individual assignments (20% each) and class participation (20%). The details will be introduced as the course proceeds.
